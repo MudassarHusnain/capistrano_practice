@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # capistrano_practice
+# capistrano_practice
