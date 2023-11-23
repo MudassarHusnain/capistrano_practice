@@ -1,0 +1,5 @@
+set :application, "contentreels"
+set :repo_url, "https://github.com/MudassarHusnain/content_reels.git"
+set :branch, "main"
+set :deploy_to, "/home/deploy/#{fetch :application}"
+append :linked_files, "config/master.key"
